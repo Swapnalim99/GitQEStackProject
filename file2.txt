@@ -1,7 +1,9 @@
 
-Changes to bug1 in branch*** . Changes to fix for BUG2 branch testing 'Master inputs 3:51'
+
+Changes to bug1 in branch*** . Changes to fix for BUG2 branch testing 'Master inputs 3:51' .. Change 3:50 PM -- > For conflic scenarios
 made changes master for workitem branch2. Changes to bug1 in branch 
 
 
 Master line added at 3:51
 Done in master...
+Change 3:50 PM -- > For conflic scenarios
