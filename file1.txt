@@ -3,3 +3,4 @@ Hello
 test
 Trying from first push from GitHub
 Editted froom GitHUB for Push-full-fetch scenarios
+ChangeRemoteMaster --> Change done in remote master by other user
