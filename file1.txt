@@ -3,4 +3,8 @@ Hello
 test
 Trying from first push from GitHub
 Editted froom GitHUB for Push-full-fetch scenarios
+
 ChangeRemoteMaster --> Change done in remote master by other user
+
+Change -> Local master to test conflict between local and remote master during Push
+
